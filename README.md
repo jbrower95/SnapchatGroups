@@ -39,7 +39,7 @@ How to use:
             Password: Doe
 6. Run Brunonia
 
-        ./brunonia -u John -p Doe -w 60
+        ./brunonia.py -u John -p Doe -w 60
 
     Notice the 60. That means that the script will wait 60 seconds between
     snapchat fetches. Every cycle, the script will download your snaps, parse them,
