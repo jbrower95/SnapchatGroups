@@ -20,7 +20,7 @@ How to use:
 2. If you don't have the following packages installed, use pip to install them
     (pip install <packagename>)
         - docopt                    v0.6.1
-        - pcrypto                   v2.6.1
+        - pycrypto                   v2.6.1
         - requests                  v2.2.1
 
 3. Clone the directory using
