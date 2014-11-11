@@ -7,6 +7,14 @@ https://github.com/martinp/pysnap
 
 How to use:
 
+
+0. Make sure you have gcc installed. If you don't, just type:
+
+    sudo gcc
+
+    And it should prompt you to install gcc. If this doesn't work, look up
+    how to install command line tools.
+
 1. Make sure you have pip installed. If you don't have pip, download it...
     
     https://pypi.python.org/pypi/pip
