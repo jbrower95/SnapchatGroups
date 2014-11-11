@@ -10,7 +10,7 @@ How to use:
 
 0. Make sure you have gcc installed. If you don't, just type:
 
-    xcode-select --install
+    sudo xcode-select --install
 
 1. Make sure you have pip installed. If you don't have pip, download it...
     
@@ -44,6 +44,10 @@ How to use:
     Notice the 60. That means that the script will wait 60 seconds between
     snapchat fetches. Every cycle, the script will download your snaps, parse them,
     and post them to the group story.
+
+    If you get a permissions error, try running:
+            
+            chmod 777 brunonia.py
 
     The bigger this number is, the less likely you are to be banned from using
     snapchat. A good time is about 5 minutes (300)
